@@ -1,8 +1,8 @@
 {
-  "name": "react-homework-template",
+  "name": "rental-campers",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Maksym-nl.github.io/camper-160225/",
+  "homepage": "https://Maksym-nl.github.io/camper-rental/",
   "dependencies": {
     "@reduxjs/toolkit": "^2.5.1",
     "@testing-library/jest-dom": "^5.16.3",
